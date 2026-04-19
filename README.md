@@ -32,7 +32,10 @@ I run two companies and I’m building toward $1M ARR.
 
 ### 🟡 Folio Studio  ·  Web Design & Digital Presence
 Production-grade websites, brand systems, and digital infrastructure for small businesses — delivered in 2–4 weeks. Custom-built for conversion, SEO-ready from day one, and priced for businesses serious about growth without enterprise budgets.
-Custom Websites Brand Identity Automation Integrations SEO Maintenance Retainers-----
+Custom Websites Brand Identity Automation Integrations SEO Maintenance Retainers
+
+<br/>
+
 
 ### 🟢 PresenceIX  ·  AI Automation & Agent Systems
 
