@@ -31,21 +31,8 @@ I run two companies and I’m building toward $1M ARR.
 ## ✦ Companies
 
 ### 🟡 Folio Studio  ·  Web Design & Digital Presence
-
-Folio Studio builds production-grade websites, brand systems, and digital infrastructure for small businesses who want the same online presence as large companies — without the enterprise price tag or the 6-month timeline.
-
-Most small businesses are invisible online. They have no website, a broken one, or one that hasn’t been updated in years. Folio Studio fixes that in 2–4 weeks with a custom, conversion-focused site built to generate real business results from day one.
-
-**What we deliver:**
-
-- Custom websites built for conversion — not just aesthetics
-- Brand identity systems — logo, color, typography, voice
-- Business automation integrations — booking, CRM, lead capture
-- SEO-ready architecture built into every project
-- Ongoing maintenance and optimization retainers
-
-**Who we work with:** Restaurants, service businesses, clinics, contractors, and any small business that is losing revenue because people can’t find them or trust them online.
-
+Production-grade websites, brand systems, and digital infrastructure for small businesses — delivered in 2–4 weeks. Custom-built for conversion, SEO-ready from day one, and priced for businesses serious about growth without enterprise budgets.
+Custom Websites Brand Identity Automation Integrations SEO Maintenance Retainers
 -----
 
 ### 🟢 PresenceIX  ·  AI Automation & Agent Systems
