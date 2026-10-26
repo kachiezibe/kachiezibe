@@ -89,7 +89,28 @@ Production-grade websites and brand systems built with Next.js, Framer, and AI-a
 
 <br/>
 
+## ✦ Experience
+
+### Varscon — Internship (Completed)
+
+Completed an internship with Varscon.
+
+<br/>
+
 ## ✦ Projects
+
+### NutriNest — Goal-Based Meal Delivery
+
+![Status](https://img.shields.io/badge/Status-Live_MVP-2ecc71?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Full--Stack_Web_App-C9A84C?style=flat-square)
+
+Built a goal-based meal discovery and delivery MVP for Abuja, Nigeria. Customers can browse meals by dietary goal, view nutrition information, check out with Paystack, and follow order status. The app includes customer, kitchen, rider, and admin workflows, plus server-side pricing and verified payment processing.
+
+`React` `TypeScript` `Hono` `tRPC` `Drizzle` `MySQL` `Paystack`
+
+[Live demo](https://nutrinest-z9ni.onrender.com/) · [Source repository](https://github.com/kachiezibe/nutrinest)
+
+-----
 
 ### PresenceIX Agent System
 
