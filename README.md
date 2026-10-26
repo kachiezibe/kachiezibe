@@ -106,7 +106,7 @@ Completed an internship with Varscon.
 
 Built a goal-based meal discovery and delivery MVP for Abuja, Nigeria. Customers can browse meals by dietary goal, view nutrition information, check out with Paystack, and follow order status. The app includes customer, kitchen, rider, and admin workflows, plus server-side pricing and verified payment processing.
 
-`React` `TypeScript` `Hono` `tRPC` `Drizzle` `MySQL` `Paystack`
+`React` `TypeScript` `Hono` `tRPC` `Drizzle` `PostgreSQL` `Paystack`
 
 [Live demo](https://nutrinest-z9ni.onrender.com/) · [Source repository](https://github.com/kachiezibe/nutrinest)
 
